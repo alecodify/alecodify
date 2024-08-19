@@ -15,11 +15,11 @@
   </a>
 
   <a href="https://github.com/whyyali" style="flex: 1 1 100%; margin-bottom: 10px;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=whyyali&show_icons=true&line_height=27&count_private=true&title_color=e4740c&text_color=c9cacc&icon_color=e4740c&bg_color=1d1f21" alt="Ali's GitHub Stats" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=whyyali&show_icons=true&line_height=27&count_private=true&title_color=e4740c&text_color=c9cacc&icon_color=e4740c&bg_color=1d1f21" alt="Ali's GitHub Stats" />
   </a>
 
   <!-- Top Languages -->
-  <a href="https://github.com/whyyali" style="flex: 1 1 48%;">
-    <img align="center" height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whyyali&layout=compact&theme=dark" alt="whyyali" />
+  <a href="https://github.com/whyyali" style="flex: 1 1 48%;margin-top: 10px; ">
+    <img align="left" height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whyyali&layout=compact&theme=dark" alt="whyyali" />
   </a>
 </div>
